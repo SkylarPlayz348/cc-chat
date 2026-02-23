@@ -1,9 +1,9 @@
 <h4 align="center">
-	<img src="https://img.shields.io/github/release/Concept-Collective/cc-chat.png">
-	<img src="https://img.shields.io/github/last-commit/Concept-Collective/cc-chat">
-	<img src="https://img.shields.io/github/license/Concept-Collective/cc-chat.png">
-	<img src="https://img.shields.io/github/issues/Concept-Collective/cc-chat.png">
-	<img src="https://img.shields.io/github/contributors/Concept-Collective/cc-chat.png">
+	<img src="https://img.shields.io/github/release/SkylarPlayz348/cc-chat.png">
+	<img src="https://img.shields.io/github/last-commit/SkylarPlayz348/cc-chat">
+	<img src="https://img.shields.io/github/license/SkylarPlayz348/cc-chat.png">
+	<img src="https://img.shields.io/github/issues/SkylarPlayz348/cc-chat.png">
+	<img src="https://img.shields.io/github/contributors/SkylarPlayz348/cc-chat.png">
 	<a href="https://discord.gg/PSqXgg8v8M" title=""><img alt="Discord Status" src="https://discordapp.com/api/guilds/807309391849062480/widget.png"></a>
 </h4>
 
@@ -15,7 +15,6 @@
 	    <br/>
 	    <b><a href='https://discord.conceptcollective.net'>Discord</a> - <a href='https://cc-chat.conceptcollective.net/'>Documentation</a> - <a href="https://github.com/Concept-Collective/cc-chat/issues">Report Bug</a> - <a href="https://github.com/Concept-Collective/cc-chat/issues">Request Feature</a></b></h5>
   	</p>
-	<a href="https://discord.gg/PSqXgg8v8M" title=""><img alt="Discord Invite" src="https://discordapp.com/api/guilds/807309391849062480/widget.png?style=banner2"></a>
 </div>
 
 ### 🖼️ Showcase
@@ -50,7 +49,7 @@ Official guide to installing **CC Chat**.
 - [Chat](https://github.com/citizenfx/cfx-server-data/tree/master/resources/%5Bgameplay%5D/chat)
 
 **Download**
-- Download the [latest releases](https://github.com/Concept-Collective/cc-chat/releases/latest) of cc-chat.
+- Download the [latest releases](https://github.com/SkylarPlayz348/cc-chat/releases/latest) of cc-chat.
 
 **Install**
 - Create a new folder in your resources folder named ``cc-chat``
@@ -58,7 +57,8 @@ Official guide to installing **CC Chat**.
 - ensure ``cc-chat`` anywhere after the default ``chat`` resource in your ``server.cfg``.
 
 ### 🙋 Support
-- [Discord](https://discord.conceptcollective.net)
+
+COMING SOON
 
 --------
 ### License
